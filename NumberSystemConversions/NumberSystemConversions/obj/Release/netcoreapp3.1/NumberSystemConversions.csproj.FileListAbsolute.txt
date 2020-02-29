@@ -1,0 +1,11 @@
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/bin/Release/netcoreapp3.1/NumberSystemConversions
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/bin/Release/netcoreapp3.1/NumberSystemConversions.deps.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/bin/Release/netcoreapp3.1/NumberSystemConversions.runtimeconfig.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/bin/Release/netcoreapp3.1/NumberSystemConversions.runtimeconfig.dev.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/bin/Release/netcoreapp3.1/NumberSystemConversions.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/bin/Release/netcoreapp3.1/NumberSystemConversions.pdb
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/obj/Release/netcoreapp3.1/NumberSystemConversions.csprojAssemblyReference.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/obj/Release/netcoreapp3.1/NumberSystemConversions.AssemblyInfoInputs.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/obj/Release/netcoreapp3.1/NumberSystemConversions.AssemblyInfo.cs
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/obj/Release/netcoreapp3.1/NumberSystemConversions.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/NumberSystemConversions/NumberSystemConversions/obj/Release/netcoreapp3.1/NumberSystemConversions.pdb
